@@ -10,89 +10,90 @@ project:
     - file: intro.md
     - title: Meet the Scholars
       children:
-        - file: hao-ting_wang.md
-        - file: josh_neudorf.md
-        - file: mohamed_abdelhack.md
-        - file: vibujithan_vigneshwaran.md
-        - file: diellor_basha.md
-        - file: julia-katharina_pfarr.md
-        - file: lindsay_munroe.md
-        - file: davor_curic.md
-        - file: nooshin_bahador.md
+        - file: scholars/hao-ting_wang.md
+        - file: scholars/josh_neudorf.md
+        - file: scholars/mohamed_abdelhack.md
+        - file: scholars/vibujithan_vigneshwaran.md
+        - file: scholars/diellor_basha.md
+        - file: scholars/julia-katharina_pfarr.md
+        - file: scholars/lindsay_munroe.md
+        - file: scholars/davor_curic.md
+        - file: scholars/nooshin_bahador.md
+        - file: scholars/tom_george.md
     - title: Datasets
       children:
-        - file: abcd.md
-        - file: adni.md
-        - file: prevent-ad.md
-        - file: ukbb.md
+        - file: datasets/abcd.md
+        - file: datasets/adni.md
+        - file: datasets/prevent-ad.md
+        - file: datasets/ukbb.md
     - title: Research Topics
       children:
-        - file: dementia.md
-        - file: parkinsons.md
-        - file: alzheimers.md
-        - file: seizures.md
-        - file: depression.md
-        - file: aging.md
+        - file: topics/dementia.md
+        - file: topics/parkinsons.md
+        - file: topics/alzheimers.md
+        - file: topics/seizures.md
+        - file: topics/depression.md
+        - file: topics/aging.md
     - title: Research Methods
       children:
-        - file: deep-learning.md
+        - file: methods/deep-learning.md
     - title: Research Tools
       children:
-        - file: containers.md
-        - file: git-overview.md
-        - file: git-examples.md
-        - file: code-environments.md
-        - file: performant-computing.md
-        - file: compute-canada.md
-        - file: cc-jupyter-hub.md
-        - file: hpc-jobs.md
-        - file: bids.md
-        - file: nipoppy.md
-        - file: mriqc.md
-        - file: fmriprep.md
-        - file: qsiprep.md
-        - file: brainstorm.md
-        - file: gigaconnectome.md
-        - file: brian.md
-        - file: pyg-graph-nets.md
-        - file: brainlm.md
-        - file: zettelkasten.md
+        - file: tools/containers.md
+        - file: tools/git-overview.md
+        - file: tools/git-examples.md
+        - file: tools/code-environments.md
+        - file: tools/performant-computing.md
+        - file: tools/compute-canada.md
+        - file: tools/cc-jupyter-hub.md
+        - file: tools/hpc-jobs.md
+        - file: tools/bids.md
+        - file: tools/nipoppy.md
+        - file: tools/mriqc.md
+        - file: tools/fmriprep.md
+        - file: tools/qsiprep.md
+        - file: tools/brainstorm.md
+        - file: tools/gigaconnectome.md
+        - file: tools/brian.md
+        - file: tools/pyg-graph-nets.md
+        - file: tools/brainlm.md
+        - file: tools/zettelkasten.md
     - title: Research Tool Discussions
       children:
-        - file: coding-obscurities.md
-        - file: imbalanced-data.md
+        - file: discussions/coding-obscurities.md
+        - file: discussions/imbalanced-data.md
     - title: Data Portals
       children:
-        - file: open-neuro.md
-        - file: ukbb-rap.md
-        - file: brain-code.md
-        - file: conp-data-portal.md
-        - file: brainlife.md
-        - file: dandi.md
-        - file: nightingale.md
-        - file: hbi.md
-        - file: project-management.md
+        - file: portals/open-neuro.md
+        - file: portals/ukbb-rap.md
+        - file: portals/brain-code.md
+        - file: portals/conp-data-portal.md
+        - file: portals/brainlife.md
+        - file: portals/dandi.md
+        - file: portals/nightingale.md
+        - file: portals/hbi.md
+        - file: portals/project-management.md
     - title: Data Modalities
       children:
-        - file: dwi.md
-        - file: fmri.md
-        - file: smri.md
-        - file: eeg-meg.md
-        - file: pet.md
+        - file: modalities/dwi.md
+        - file: modalities/fmri.md
+        - file: modalities/smri.md
+        - file: modalities/eeg-meg.md
+        - file: modalities/pet.md
     - title: Large Language Models
       children:
-        - file: llm-overview.md
-        - file: llm-semantic-embedding.md
-        - file: notebooklm.md
-        - file: llm-methods-of-synthesis.md
+        - file: llm/llm-overview.md
+        - file: llm/llm-semantic-embedding.md
+        - file: llm/notebooklm.md
+        - file: llm/llm-methods-of-synthesis.md
     - title: External Resources
       children:
-        - file: external.md
+        - file: external/external.md
     - title: Contributing Formatting and Files
       children:
-        - file: markdown.md
-        - file: notebooks.ipynb
-        - file: markdown-notebooks.md
+        - file: contributing/markdown.md
+        - file: contributing/notebooks.ipynb
+        - file: contributing/markdown-notebooks.md
     - title: Appendix
       children:
         - file: README.md
